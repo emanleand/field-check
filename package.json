@@ -1,0 +1,38 @@
+{
+  "_from": "field-check",
+  "_id": "field-check@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-IsjwetPECQ6SvAp3eHcNVy6y4BGFyrvho5NwZo1vlnNDu4dH/bQguvmL2d/Xm+yBm4x1xt10cLBM8FUzl6D4/g==",
+  "_location": "/field-check",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "field-check",
+    "name": "field-check",
+    "escapedName": "field-check",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/field-check/-/field-check-1.0.4.tgz",
+  "_shasum": "275b02ee6204173859c7d60aa9525183467731f9",
+  "_spec": "field-check",
+  "_where": "/home/ema/Documentos/my-first-socket",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Util para realizar validaciones y limpieza de los campos de entrada",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "field-check",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
